@@ -68,3 +68,7 @@ nav ul li:hover {
     transition: all 0.2s;
     font-weight: bold;
 }
+
+.menu-button {
+    display: none;
+}
